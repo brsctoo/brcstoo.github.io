@@ -57,22 +57,22 @@ function GerarTimeEspecifico()
 
     GerarTime(new Time("Imagens/BrasãoInternacional.png", "Internacional", "Rio Grande do Sul",
     45 + " títulos" + " \n(Campeonato Gaúcho: 1927, 1934, 1940 até 1945, 1947, 1948, 1950, 1951, 1952, 1953, 1955, 1961, 1969 até 1978, 1981, 1982, 1983, 1984, 1991, 1992, 1994, 1997, 2002, 2003, 2004, 2005, 2008, 2009, 2011, 2012, 2013, 2014, 2015 e 2016)", 
-    3 + " títulos" + " \n(1975, 1976 e 1979 (invicto))", 1 + " títulos" + " \n(1992))", 
+    3 + " títulos" + " \n(1975, 1976 e 1979 (invicto)", 1 + " títulos" + " \n(1992))", 
     2 + " títulos" + " \n(2006 e 2010)", 1 + " títulos" + " \n(2006)", ["rgb(255, 0, 0, 0.7)", "rgb(255, 255, 255, 0.85)", "rgba(255, 179, 179, 1)"]))
 
     GerarTime(new Time("Imagens/BrasãoGrêmio.png", "Grêmio", "Rio Grande do Sul",
     42 + " títulos" + " \n(Campeonato Gaúcho: 1921, 1922, 1926, 1931, 1932, 1946, 1949, 1956 até 1960, 1962 até 1968, 1977, 1979, 1980, 1985, 1986, 1987, 1988, 1989, 1990, 1993, 1995, 1996, 1999, 2001, 2006, 2007, 2010, 2018, 2019, 2020, 2021, 2022 e 2023)",
-    2 + " títulos" + " \n(1981 e 1996)", 5 + " títulos" + " \n(1989, 1994, 1997, 2001, 2016))", 
+    2 + " títulos" + " \n(1981 e 1996)", 5 + " títulos" + " \n(1989, 1994, 1997, 2001, 2016)", 
     3 + " títulos" + " \n(1983, 1995, 2017)", 1 + " títulos" + " \n(1983)", ["rgb(13, 128, 191, 0.85)", "rgb(255, 255, 255, 0.85)", "rgb(119, 180, 215, 1)"]))
 
-    GerarTime(new Time("Imagens/BrasãoAthleticoParanaense.png", "Athletico-Pr.", "Paraná",
+    GerarTime(new Time("Imagens/BrasãoAthleticoParanaense.png", "Athletico-Pr", "Paraná",
     27 + " títulos" + " \n(Campeonato Paranaense: 1925, 1929, 1930, 1934, 1936, 1940, 1943, 1945, 1949, 1958, 1970, 1982, 1983, 1985, 1988, 1990, 1998, 2000, 2001, 2002, 2005, 2009, 2016, 2018, 2019, 2020 e 2023)", 
-    1 + " títulos" + " \n(2001)", 1 + " títulos" + " \n(2019))", 
+    1 + " títulos" + " \n(2001)", 1 + " títulos" + " \n(2019)", 
     0 + " títulos", 0 + " títulos", ["rgb(200, 16, 46, 0.7)", "rgb(45, 41, 38, 0.7)", "rgb(186, 106, 119, 1)"]))
 
     GerarTime(new Time("Imagens/BrasãoCorinthians.png", "Corinthians", "São Paulo",
     30 + " títulos" + " \n(Campeonato Paulista: 1914, 1916, 1922, 1923, 1924, 1928, 1929, 1930, 1937, 1938, 1939, 1941, 1951, 1952, 1954, 1977, 1979, 1982, 1983, 1988, 1995, 1997, 1999, 2001, 2003, 2009, 2013, 2017, 2018 e 2019)", 
-    7 + " títulos" + " \n(1990, 1998, 1999, 2005, 2011, 2015, 2017)", 3 + " títulos" + " \n(1995, 2002, 2009))", 
+    7 + " títulos" + " \n(1990, 1998, 1999, 2005, 2011, 2015, 2017)", 3 + " títulos" + " \n(1995, 2002, 2009)", 
     1 + " títulos" + " \n(2012)", 2 + " títulos"  + " \n(2010, 2012)", ["rgb(0, 0, 0)", "rgb(255, 255, 255)", "rgb(156, 156, 156, 1)"]))
 
     GerarTime(new Time("Imagens/BrasãoBotafogo.png", "Botafogo", "Rio de Janeiro",
@@ -87,12 +87,12 @@ function GerarTimeEspecifico()
 
     GerarTime(new Time("Imagens/BrasãoSantos.png", "Santos", "São Paulo",
     22 + " títulos" + " \n(Campeonato Paulista: 1935, 1955, 1956, 1958, 1960, 1961, 1962, 1964, 1965, 1967, 1968, 1969, 1973, 1978, 1984, 2006, 2007, 2010, 2011, 2012, 2015 e 2016)", 
-    8 + " títulos" + " \n(1961, 1962, 1963, 1964, 1965, 1968, 2002 e 2004)", 1 + " títulos" + " \n(2010))", 
+    8 + " títulos" + " \n(1961, 1962, 1963, 1964, 1965, 1968, 2002 e 2004)", 1 + " títulos" + " \n(2010)", 
     3 + " títulos" + " \n(1962, 1963 e 2011)", 2 + " títulos"  + " \n(1962 e 1963)", ["rgb(0, 0, 0)", "rgb(255, 255, 255)", "rgb(255, 255, 255)"]))
     
     GerarTime(new Time("Imagens/BrasãoAtléticoMineiro.png", "Atlético-MG", "Minas Gerais",
     47 + " títulos" + " \n(Campeonato Mineiro: 1915, 1926, 1927, 1931, 1932, 1936, 1938, 1939, 1941, 1942, 1946, 1947, 1949, 1950, 1952 até 1956, 1958, 1962, 1963, 1970, 1976, 1978 até 1983, 1985, 1986, 1988, 1989, 1991, 1995, 1999, 2000, 2007, 2010, 2012, 2013, 2015, 2017, 2020 até 2023)", 
-    3 + " títulos" + " \n(1937, 1971, 2021)", 2 + " títulos" + " \n(2014, 1021))", 
+    3 + " títulos" + " \n(1937, 1971, 2021)", 2 + " títulos" + " \n(2014, 2021)", 
     1 + " títulos" + " \n(2013)", 0 + " títulos", ["rgb(0, 0, 0)", "rgb(255, 255, 255)", "rgb(255, 255, 255)"]))
 
     GerarTime(new Time("Imagens/BrasãoCuiabá.png", "Cuiabá", "Mato Grosso",
@@ -112,7 +112,7 @@ function GerarTimeEspecifico()
 
     GerarTime(new Time("Imagens/BrasãoCruzeiro.png", "Cruzeiro", "Minas Gerais",
     38 + " títulos" + " \n(Campeonato Mineiro: 1926, 1928, 1929, 1930, 1940, 1943 até 1956, 1959, 1960, 1961, 1965 até 1969, 1972, 1973, 1974, 1975, 1977, 1984, 1987, 1990, 1992, 1994, 1996, 1997, 1998, 2002 até 2004, 2006, 2008, 2009, 2011, 2014, 2019)", 
-    4 + " títulos" + " \n(1966, 2003, 2013, 2014)", 6 + "títulos" + " \n(1993, 1996, 2000, 2003, 2017, 2018))", 
+    4 + " títulos" + " \n(1966, 2003, 2013, 2014)", 6 + "títulos" + " \n(1993, 1996, 2000, 2003, 2017, 2018)", 
     2 + " títulos" + " \n(1976, 1997)", 0 + " títulos", ["rgb(0, 91, 162, 0.85)", "rgb(255, 255, 255)", "rgb(104, 151, 198, 1)"]))
 
     GerarTime(new Time("Imagens/BrasãoGoiás.png", "Goiás", "Goiás",
