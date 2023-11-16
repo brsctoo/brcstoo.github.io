@@ -127,8 +127,8 @@ function GerarTimeEspecifico()
 
     GerarTime(new Time("Imagens/BrasãoCoritiba.png", "Coritiba", "Paraná",
     38 + " títulos" + " \n(Campeonato Paranaense: 1916, 1927, 1931, 1933, 1935, 1939, 1941, 1942, 1946, 1947, 1951, 1952, 1954, 1956, 1957, 1959, 1960, 1968, 1969, 1971, 1972, 1973, 1974, 1975, 1976, 1978, 1979, 1986, 1989, 1999, 2003, 2004, 2008, 2010, 2011, 2012, 2013, 2017)", 
-    1 + " títulos" + " \n(1985)", 3 + " títulos" + " \n())", 
-    1 + " títulos" + " \n()", 2 + " títulos"  + " \n()", ["rgba(0, 100, 55, 0.85)", "rgba(255, 255, 255, 0.85)", "rgba(95, 151, 126, 1)"]))
+    1 + " títulos" + " \n(1985)", 0 + " títulos", 
+    0 + " títulos",0 + " títulos", ["rgba(0, 100, 55, 0.85)", "rgba(255, 255, 255, 0.85)", "rgba(95, 151, 126, 1)"]))
 }
 
 function GerarTime(Time) 
@@ -321,7 +321,7 @@ function Click(Time, cell, TimesArray)
 
     if (Time.nome != timeClicado) {
         var informacoes = [Time.estadoais, Time.brasileirao, Time.estado, Time.copaDoBrasil, Time.libertadores, Time.mundial];
-        var titulo = ["Campeonatos estadoais", "Títulos brasileiros (série A)", "Estado", "Copas do Brasil", "Libertadores", "Mundiais"];
+        var titulo = ["Campeonatos estaduais", "Títulos brasileiros (série A)", "Estado", "Copas do Brasil", "Libertadores", "Mundiais"];
 
         var newRow = document.createElement("tr");
         newRow.classList.add("newRow");
